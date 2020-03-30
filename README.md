@@ -4,5 +4,7 @@
 Created by ntware as a demontration app for .net on the Handheld PC
 
 See
+
 https://www.hpcfactor.com/scl/1082/ntware/Tic_Tac_Toe/version_1.0
+
 https://www.hpcfactor.com/forums/forums/thread-view.asp?tid=18761&start=1
