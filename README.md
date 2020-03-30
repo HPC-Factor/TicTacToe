@@ -1,7 +1,7 @@
 # TicTacToe
 .net Tic Tac Toe Port for Windows CE and the Handhled PC
 
-Created by ntware as a demontration app for .net on the Handheld PC
+Created by ntware as a demonstration app for .net on the Handheld PC
 
 See
 
